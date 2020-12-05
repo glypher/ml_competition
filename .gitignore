@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 .idea/
 bert/
+papers/
+best_model*
 
 data_*/
 output_*/
