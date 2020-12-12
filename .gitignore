@@ -5,6 +5,7 @@ __pycache__/
 .idea/
 bert/
 papers/
+ro_wiki/
 best_model*
 
 data_*/
